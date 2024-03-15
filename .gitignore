@@ -1,0 +1,6 @@
+server-express/.env
+server-express/node_modules/
+
+post-vite/node_modules/
+#ignoramos el archivo .env
+
